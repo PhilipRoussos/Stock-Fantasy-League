@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53658049192",
+    "project_id": "stock-fantasy-league-798f7",
+    "storage_bucket": "stock-fantasy-league-798f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53658049192:android:71896fcb71eee7edea009d",
+        "android_client_info": {
+          "package_name": "com.example.stockfantasyleague"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjD6QJ0NU-1USifva3kQhAjxlQd2WMBYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
